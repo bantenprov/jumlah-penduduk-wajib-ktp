@@ -1,0 +1,29 @@
+{
+    "name": "bantenprov/jumlah-penduduk-wajib-ktp",
+    "description": "Jumlah penduduk berdasarkan wajib KTP per desa/kelurahan",
+    "authors": [
+        {
+            "name": "bantenprov",
+            "email": "developer.bantenprov@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+      "source": "https://github.com/bantenprov/jumlah-penduduk-wajib-ktp,",
+      "issues": "https://github.com/bantenprov/jumlah-penduduk-wajib-ktp/issues",
+      "wiki": "https://github.com/bantenprov/jumlah-penduduk-wajib-ktp/wiki"
+    },
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "5.4.*"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers/helpers.php"
+        ],
+        "psr-4": {
+            "Bantenprov\\JPWajibKTP\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
