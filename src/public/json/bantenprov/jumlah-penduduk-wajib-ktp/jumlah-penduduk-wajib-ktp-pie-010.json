@@ -2,7 +2,7 @@
   {
     "xAxis": {
       "type": "Wajib KTP",
-      "region": "Kabupaten",
+      "region": "Banten",
       "name": "Pandeglang",
       "yyyy": "2017",
       "index": "Pandeglang-2017"
@@ -19,7 +19,7 @@
   {
     "xAxis": {
       "type": "Wajib KTP",
-      "region": "Kabupaten",
+      "region": "Banten",
       "name": "Lebak",
       "yyyy": "2017",
       "index": "Lebak-2017"
@@ -36,7 +36,7 @@
   {
     "xAxis": {
       "type": "Wajib KTP",
-      "region": "Kabupaten",
+      "region": "Banten",
       "name": "Tangerang",
       "yyyy": "2017",
       "index": "Tangerang-2017"
@@ -53,7 +53,7 @@
   {
     "xAxis": {
       "type": "Wajib KTP",
-      "region": "Kabupaten",
+      "region": "Banten",
       "name": "Serang",
       "yyyy": "2017",
       "index": "Serang-2017"
@@ -70,7 +70,7 @@
   {
     "xAxis": {
       "type": "Wajib KTP",
-      "region": "Kota",
+      "region": "Banten",
       "name": "Kota Tangerang",
       "yyyy": "2017",
       "index": "Kota Tangerang-2017"
@@ -87,7 +87,7 @@
   {
     "xAxis": {
       "type": "Wajib KTP",
-      "region": "Kota",
+      "region": "Banten",
       "name": "Kota Cilegon",
       "yyyy": "2017",
       "index": "Kota Cilegon-2017"
@@ -104,7 +104,7 @@
   {
     "xAxis": {
       "type": "Wajib KTP",
-      "region": "Kota",
+      "region": "Banten",
       "name": "Kota Serang",
       "yyyy": "2017",
       "index": "Kota Serang-2017"
@@ -121,7 +121,7 @@
     {
     "xAxis": {
       "type": "Wajib KTP",
-      "region": "Kota",
+      "region": "Banten",
       "name": "Kota Tangerang Selatan",
       "yyyy": "2017",
       "index": "Kota Tangerang Selatan-2017"
