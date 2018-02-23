@@ -1,210 +1,168 @@
 [
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2012",
-      "index": "Banten-2012",
+      "type": "Wajib KTP",
+      "region": "Banten",
+      "name": "Pandeglang",
+      "yyyy": "2017",
+      "index": "Pandeglang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) WAJIB KTP",
+        "(P) WAJIB KTP2"
       ]
     },
     "series": [
       {
         "data": [
-          5.59,
-          5.09        
+          441446,
+          415822
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2012",
-      "index": "Indonesia-2012",
+      "type": "Wajib KTP",
+      "region": "Banten",
+      "name": "Lebak",
+      "yyyy": "2017",
+      "index": "Lebak-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) WAJIB KTP",
+        "(P) WAJIB KTP2"
       ]
     },
     "series": [
       {
         "data": [
-          119.85,
-          112.5
+          459815,
+          434611
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013",
+      "type": "Wajib KTP",
+      "region": "Banten",
+      "name": "Tangerang",
+      "yyyy": "2017",
+      "index": "Tangerang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) WAJIB KTP",
+        "(P) WAJIB KTP2"
       ]
     },
     "series": [
       {
         "data": [
-          5.59,
-          5.09
+            977461,
+            947650
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2013",
-      "index": "Indonesia-2013",
+      "type": "Wajib KTP",
+      "region": "Banten",
+      "name": "Serang",
+      "yyyy": "2017",
+      "index": "Serang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) WAJIB KTP",
+        "(P) WAJIB KTP2"
       ]
     },
     "series": [
       {
         "data": [
-          120.17,
-          112.76
+            520553,
+            499568
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014",
+      "type": "Wajib KTP",
+      "region": "Banten",
+      "name": "Kota Tangerang",
+      "yyyy": "2017",
+      "index": "Kota Tangerang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) WAJIB KTP",
+        "(P) WAJIB KTP2"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          4.86          
+            609390,
+            606687
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014",
+      "type": "Wajib KTP",
+      "region": "Banten",
+      "name": "Kota Cilegon",
+      "yyyy": "2017",
+      "index": "Kota Cilegon-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) WAJIB KTP",
+        "(P) WAJIB KTP2"
       ]
     },
     "series": [
       {
         "data": [
-          121.87,
-          114.63
+            145082,
+            140662
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015",
+      "type": "Wajib KTP",
+      "region": "Banten",
+      "name": "Kota Serang",
+      "yyyy": "2017",
+      "index": "Kota Serang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) WAJIB KTP",
+        "(P) WAJIB KTP2"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          4.86          
+            221820,
+            212125
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015",
+      "type": "Wajib KTP",
+      "region": "Banten",
+      "name": "Kota Tangerang Selatan",
+      "yyyy": "2017",
+      "index": "Kota Tangerang Selatan-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) WAJIB KTP",
+        "(P) WAJIB KTP2"
       ]
     },
     "series": [
       {
         "data": [
-          121.87,
-          114.63
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016",
-      "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          5.59,
-          5.09
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016",
-      "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          125.44,
-          118.41
+          456903,
+          459347
         ]
       }
     ]
