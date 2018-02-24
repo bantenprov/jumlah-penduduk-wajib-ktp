@@ -5,7 +5,7 @@
       "region": "Banten",
       "name": "Pandeglang",
       "yyyy": "2017",
-      "index": "Pandeglang-2017",
+      "title": "Pandeglang 2017",
       "data": [
         "(L) WAJIB KTP",
         "(P) WAJIB KTP2"
@@ -26,7 +26,7 @@
       "region": "Banten",
       "name": "Lebak",
       "yyyy": "2017",
-      "index": "Lebak-2017",
+      "title": "Lebak 2017",
       "data": [
         "(L) WAJIB KTP",
         "(P) WAJIB KTP2"
@@ -47,7 +47,7 @@
       "region": "Banten",
       "name": "Tangerang",
       "yyyy": "2017",
-      "index": "Tangerang-2017",
+      "title": "Tangerang 2017",
       "data": [
         "(L) WAJIB KTP",
         "(P) WAJIB KTP2"
@@ -68,7 +68,7 @@
       "region": "Banten",
       "name": "Serang",
       "yyyy": "2017",
-      "index": "Serang-2017",
+      "title": "Serang 2017",
       "data": [
         "(L) WAJIB KTP",
         "(P) WAJIB KTP2"
@@ -89,7 +89,7 @@
       "region": "Banten",
       "name": "Kota Tangerang",
       "yyyy": "2017",
-      "index": "Kota Tangerang-2017",
+      "title": "Kota Tangerang 2017",
       "data": [
         "(L) WAJIB KTP",
         "(P) WAJIB KTP2"
@@ -110,7 +110,7 @@
       "region": "Banten",
       "name": "Kota Cilegon",
       "yyyy": "2017",
-      "index": "Kota Cilegon-2017",
+      "title": "Kota Cilegon 2017",
       "data": [
         "(L) WAJIB KTP",
         "(P) WAJIB KTP2"
@@ -131,7 +131,7 @@
       "region": "Banten",
       "name": "Kota Serang",
       "yyyy": "2017",
-      "index": "Kota Serang-2017",
+      "title": "Kota Serang 2017",
       "data": [
         "(L) WAJIB KTP",
         "(P) WAJIB KTP2"
@@ -152,7 +152,7 @@
       "region": "Banten",
       "name": "Kota Tangerang Selatan",
       "yyyy": "2017",
-      "index": "Kota Tangerang Selatan-2017",
+      "title": "Kota Tangerang Selatan 2017",
       "data": [
         "(L) WAJIB KTP",
         "(P) WAJIB KTP2"
