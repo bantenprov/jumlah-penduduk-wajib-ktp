@@ -48,6 +48,13 @@ $ git clone https://github.com/bantenprov/jumlah-penduduk-wajib-ktp.git
 
 ```
 
+#### Untuk publish component vue :
+
+```bash
+$ php artisan vendor:publish --tag=jumlah-penduduk-wajib-ktp-assets
+$ php artisan vendor:publish --tag=jumlah-penduduk-wajib-ktp-public
+```
+
 #### Tambahkan route di dalam route : `resources/assets/js/routes.js` :
 
 ```javascript
@@ -195,11 +202,5 @@ import JPWajibKTPPie03 from './components/views/bantenprov/jumlah-penduduk-wajib
 Vue.component('jumlah-penduduk-wajib-ktp-pie-03', JPWajibKTPPie03);
 ```
 
-#### Untuk publish component vue :
-
-```bash
-$ php artisan vendor:publish --tag=jumlah-penduduk-wajib-ktp-assets
-$ php artisan vendor:publish --tag=jumlah-penduduk-wajib-ktp-public
-```
 
 
