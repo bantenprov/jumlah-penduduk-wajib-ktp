@@ -24,7 +24,7 @@ $ composer require bantenprov/jumlah-penduduk-wajib-ktp:dev-master
 ### download via github
 
 ~~~bash
-$ git clone https://github.com/bantenprov/bantenprov/jumlah-penduduk-wajib-ktp.git
+$ git clone https://github.com/bantenprov/jumlah-penduduk-wajib-ktp.git
 ~~~
 
 
