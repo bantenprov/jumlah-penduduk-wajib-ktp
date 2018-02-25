@@ -162,6 +162,7 @@ children: [
 ```javascript
 
 //== Jumlah Penduduk Berdasarkan Wajib KTP
+
 import JPWajibKTP from './components/bantenprov/jumlah-penduduk-wajib-ktp/JPWajibKTP.chart.vue';
 Vue.component('echarts-jumlah-penduduk-wajib-ktp', JPWajibKTP);
 
@@ -171,7 +172,7 @@ Vue.component('echarts-jumlah-penduduk-wajib-ktp-kota', JPWajibKTPKota);
 import JPWajibKTPTahun from './components/bantenprov/jumlah-penduduk-wajib-ktp/JPWajibKTPTahun.chart.vue';
 Vue.component('echarts-jumlah-penduduk-wajib-ktp-tahun', JPWajibKTPTahun);
 
-//== Echarts Balita Gizi Buruk Mendapat Perawatan
+//== mini bar charts
 
 import JPWajibKTPBar01 from './components/views/bantenprov/jumlah-penduduk-wajib-ktp/JPWajibKTPBar01.vue';
 Vue.component('jumlah-penduduk-wajib-ktp-bar-01', JPWajibKTPBar01);
@@ -179,9 +180,10 @@ Vue.component('jumlah-penduduk-wajib-ktp-bar-01', JPWajibKTPBar01);
 import JPWajibKTPBar02 from './components/views/bantenprov/jumlah-penduduk-wajib-ktp/JPWajibKTPBar02.vue';
 Vue.component('jumlah-penduduk-wajib-ktp-bar-02', JPWajibKTPBar02);
 
-//== mini bar charts
 import JPWajibKTPBar03 from './components/views/bantenprov/jumlah-penduduk-wajib-ktp/JPWajibKTPBar03.vue';
 Vue.component('jumlah-penduduk-wajib-ktp-bar-03', JPWajibKTPBar03);
+
+//== mini pie charts
 
 import JPWajibKTPPie01 from './components/views/bantenprov/jumlah-penduduk-wajib-ktp/JPWajibKTPPie01.vue';
 Vue.component('jumlah-penduduk-wajib-ktp-pie-01', JPWajibKTPPie01);
@@ -189,7 +191,6 @@ Vue.component('jumlah-penduduk-wajib-ktp-pie-01', JPWajibKTPPie01);
 import JPWajibKTPPie02 from './components/views/bantenprov/jumlah-penduduk-wajib-ktp/JPWajibKTPPie02.vue';
 Vue.component('jumlah-penduduk-wajib-ktp-pie-02', JPWajibKTPPie02);
 
-//== mini pie charts
 import JPWajibKTPPie03 from './components/views/bantenprov/jumlah-penduduk-wajib-ktp/JPWajibKTPPie03.vue';
 Vue.component('jumlah-penduduk-wajib-ktp-pie-03', JPWajibKTPPie03);
 ```
