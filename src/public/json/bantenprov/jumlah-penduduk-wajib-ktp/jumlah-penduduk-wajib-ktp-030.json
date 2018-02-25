@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "opd": "Persentase penyerapan anggaran per OPD",
+      "opd": "Jumlah Penduduk Wajib KTP",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
@@ -26,7 +26,7 @@
   },
   {
     "xAxis": {
-      "opd": "Persentase penyerapan anggaran per OPD",
+      "opd": "Jumlah Penduduk Wajib KTP",
       "region": "Negara",
       "name": "Indonesia",
       "data": [
