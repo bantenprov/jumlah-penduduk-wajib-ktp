@@ -3,7 +3,7 @@
     "xAxis": {
       "category": "Wajib KTP",
       "region": "Banten",
-      "name": "(L) WAJIB KTP",
+      "title": "(L) WAJIB KTP",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -33,7 +33,7 @@
     "xAxis": {
       "category": "Wajib KTP",
       "region": "Banten",
-      "name": "(P) WAJIB KTP2",
+      "title": "(P) WAJIB KTP2",
       "data": [
         "PANDEGLANG",
         "LEBAK",
